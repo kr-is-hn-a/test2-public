@@ -15,7 +15,8 @@ def main():
 
 
 def get_number():
-    
+    #writing code to accept positive integer only
+    #this is allso for test purpose
     while True:
         n = int(input("What's n? "))
         if n > 0:
