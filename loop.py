@@ -10,7 +10,7 @@
 # MAKING THE COMPLETE WORKING CODE OUT OF THE ABOVE CODE 
 
 def main():
-    number = get_number()
+    number = get_number() #calling the function
     meow(number)
 
 
