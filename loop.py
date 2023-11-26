@@ -30,5 +30,3 @@ def meow(n):
 main()
 
 
-this is the code to perform the test only.
-after staging and before commiting the file i have made this changes which is want to reflect in this commit
