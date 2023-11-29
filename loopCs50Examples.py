@@ -43,3 +43,6 @@ students = ["Hermoine", "Harry", "Ron"]
 print(len(students))
 for i in range(len(students)):
     print(i + 1, students[i])
+
+
+this is the changes that i want to do before stashing
